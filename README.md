@@ -7,4 +7,6 @@ Since I'm a beginner, I **don't** have a proper project. But if there is one tha
 ### Stats 📈
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdezel-dev&label=Visitors&countColor=%23263759&labelStyle=upper)
 <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dezel-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dezel-dev&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
